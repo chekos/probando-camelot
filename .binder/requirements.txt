@@ -1,1 +1,1 @@
-camelot-py
+camelot-py[cv]
