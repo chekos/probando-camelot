@@ -1,1 +1,1 @@
-cameplot-py
+camelot-py
